@@ -1,17 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T03:30:45.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="fYeGmhw2aUmakoQxC9zw" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T04:33:55.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="_8XxB9WOBdGBFvdRw3P-" version="15.7.1" type="github">
   <diagram id="uTlhrgQutKMtzIXlsqcW" name="Page-1">
-    <mxGraphModel dx="1955" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B6GI_mROT-e6xUtExCSx-2" value="Beginner Full Stack Web Development" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="B6GI_mROT-e6xUtExCSx-3" value="Web Apps Training courses outline" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=5;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="B6GI_mROT-e6xUtExCSx-3" value="Web Apps Training courses outline" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=5;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B6GI_mROT-e6xUtExCSx-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="40" height="20" as="geometry" />
+        <mxCell id="v1Dogkqgcd1432tKZlPu-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="60" width="271" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GI_mROT-e6xUtExCSx-2" value="Beginner Full Stack Web Development" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;shadow=0;glass=0;arcSize=6;spacingLeft=5;fontStyle=1" parent="v1Dogkqgcd1432tKZlPu-9" vertex="1">
+          <mxGeometry width="271" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GI_mROT-e6xUtExCSx-4" value="- Getting Started With HTML&lt;br&gt;- Introduction to CSS&lt;br&gt;- Intermediate CSS&lt;br&gt;- Advanced CSS: Building and styling website&lt;br&gt;- Learning to Code With Javascript&lt;br&gt;- Version Control With Git&lt;br&gt;- Intro to Flexbox&lt;br&gt;- CSS Grids&lt;br&gt;- How to Set Up Hosting For Your Web Apps" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;html=1;" parent="v1Dogkqgcd1432tKZlPu-9" vertex="1">
+          <mxGeometry x="11" y="25" width="250" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="290" width="271" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-11" value="Beginner Full Stack Web Development" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;shadow=0;glass=0;arcSize=6;spacingLeft=5;fontStyle=1" vertex="1" parent="v1Dogkqgcd1432tKZlPu-10">
+          <mxGeometry width="271" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-12" value="- Getting Started With HTML&lt;br&gt;- Introduction to CSS&lt;br&gt;- Intermediate CSS&lt;br&gt;- Advanced CSS: Building and styling website&lt;br&gt;- Learning to Code With Javascript&lt;br&gt;- Version Control With Git&lt;br&gt;- Intro to Flexbox&lt;br&gt;- CSS Grids&lt;br&gt;- How to Set Up Hosting For Your Web Apps" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;html=1;" vertex="1" parent="v1Dogkqgcd1432tKZlPu-10">
+          <mxGeometry x="11" y="25" width="250" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="v1Dogkqgcd1432tKZlPu-13" target="v1Dogkqgcd1432tKZlPu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-13" value="Create Next.js with Typescript" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-15" value="Basic components rendering" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-16" value="`src` directory &amp;amp; pages routing" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-18" value="Next.js pre-rendering&lt;br style=&quot;font-size: 14px;&quot;&gt;(Static &amp;amp; Server-side)" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-19" value="Data fetching &amp;amp;&lt;br&gt;API Routing" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-20" value="Layout&lt;br style=&quot;font-size: 14px;&quot;&gt;(Navbar, Footer)" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-21" value="Authentication" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-23" value="React Hooks (Stateful)" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-24" value="Redux Toolkit" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-35" value="SQL Database (RDBMS) - PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-36" value="Data Types" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-37" value="Primary Keys and&lt;br&gt;Foreign Keys" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-38" value="Unique, Not Null, Constraints" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-39" value="CRUD SQL Language" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-40" value="Aggregate Function and Grouping Data" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-41" value="Relationships, Joining, Subqueries, String Func." style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-44" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="v1Dogkqgcd1432tKZlPu-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="80" as="sourcePoint" />
+            <mxPoint x="250" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-45" value="NoSQL Database - mongoDB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-46" value="Structure&lt;br&gt;(Documents, Collections)" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-47" value="CRUD Operations" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-48" value="Aggregation Framework" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="900" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v1Dogkqgcd1432tKZlPu-49" value="mongoDB Atlas" style="whiteSpace=wrap;html=1;shadow=0;glass=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="950" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
