@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T01:30:17.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="a83x51NkZHBVrDdYDDcY" version="15.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-15T01:48:07.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="huGWjv-irRajtqudhySj" version="15.7.3" type="github" pages="2">
   <diagram id="zXwuRmfH2LZNoMJxXQ9i" name="Outline">
-    <mxGraphModel dx="1303" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="3Bk1m-ATzR4m3gf4smz0-0" />
         <mxCell id="3Bk1m-ATzR4m3gf4smz0-1" parent="3Bk1m-ATzR4m3gf4smz0-0" />
@@ -127,7 +127,7 @@
         <mxCell id="aP13t1gIoDkiT1bnGGcT-16" value="" style="group" parent="aP13t1gIoDkiT1bnGGcT-46" vertex="1" connectable="0">
           <mxGeometry width="502" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="aP13t1gIoDkiT1bnGGcT-17" value="&lt;div style=&quot;font-size: 22px&quot;&gt;Full-stack :&lt;/div&gt;&lt;div style=&quot;font-size: 22px&quot;&gt;#2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=rgba(0, 0, 0, 1);strokeColor=rgba(0, 0, 0, 1);fillColor=rgba(255, 255, 255, 1);align=left;verticalAlign=top;fontStyle=1;spacingLeft=6;arcSize=10;" parent="aP13t1gIoDkiT1bnGGcT-16" vertex="1">
+        <mxCell id="aP13t1gIoDkiT1bnGGcT-17" value="&lt;div style=&quot;font-size: 22px&quot;&gt;Full-stack :&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=rgba(0, 0, 0, 1);strokeColor=rgba(0, 0, 0, 1);fillColor=rgba(255, 255, 255, 1);align=left;verticalAlign=top;fontStyle=1;spacingLeft=6;arcSize=10;" parent="aP13t1gIoDkiT1bnGGcT-16" vertex="1">
           <mxGeometry width="502.00000000000006" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aP13t1gIoDkiT1bnGGcT-18" value="- Deploy front-end to hosting (heroku)&lt;br&gt;- Deploy backend to hosting (heroku)&lt;br&gt;- Deploy database to hosting (postgreSQL=heroku, mongoDB=Atlas)&lt;br&gt;- Trial use with Full-stack application" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontSize=20;fontColor=#000000;" parent="aP13t1gIoDkiT1bnGGcT-46" vertex="1">
